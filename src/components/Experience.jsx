@@ -5,6 +5,7 @@ import javascript from '../assets/javascript.png'
 import reactImage from '../assets/react.png'
 import github from '../assets/github.png'
 import tailwind from '../assets/tailwind.png'
+import wordpress from '../assets/wordpress.png'
 
 const Experience = () => {
 
@@ -34,16 +35,22 @@ const Experience = () => {
       style: "shadow-blue-600"
     },
     {
-      id:1,
+      id:5,
       src: tailwind,
       title: "Tailwind",
       style: "shadow-sky-400"
     },
     {
-      id:1,
+      id:6,
       src: github,
       title: "Github",
       style: "shadow-gray-400"
+    },
+    {
+      id:6,
+      src: wordpress,
+      title: "Wordpress",
+      style: "shadow-blue-900"
     },
   ]
 
