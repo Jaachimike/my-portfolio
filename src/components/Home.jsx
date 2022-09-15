@@ -1,5 +1,5 @@
 import React from 'react'
-import HeroImage from '../assets/heroImage.png'
+import HeroImage from '../assets/heroImage.jpg'
 import {HiArrowRight} from 'react-icons/hi'
 import { Link } from 'react-scroll'
 
@@ -15,9 +15,9 @@ const Home = () => {
             I'm a Front End Developer
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-            I have 8 years of experience building and desgining software.
+            I have experience in building and desgining websites and web applications.
             Currently, I love to work on web application using technologies like
-            React, Tailwind, Next JS and GraphQL.
+            React, Tailwind and Wordpress.
           </p>
 
           <div >
