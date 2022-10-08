@@ -10,13 +10,13 @@ const about = () => {
         </div>
 
         <p className=' text-xl mt-20'>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus id praesentium tenetur maxime nam, quod asperiores repellendus, earum mollitia vitae vel nihil nostrum rem nesciunt pariatur incidunt assumenda. Sapiente, alias?
+          I am an innovative Front-end Web developer well versed in HTML, CSS, Javascript and several frameworks and libraries such as React.js, Tailwind CSS, Wordpress, e.t.c. 
         </p>
 
         <br />
 
         <p className=' text-xl'>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa voluptate quaerat cupiditate dignissimos, odio unde modi, veritatis perferendis itaque facere iure eius beatae aspernatur quod molestias repudiandae. Ullam, quis dolores.
+        I specialize in the conversion of web designs into beautiful, functional code as well as creating stunning, reusable web applications with React and Tailwind.
         </p>
       </div>
 
