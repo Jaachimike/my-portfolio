@@ -16,8 +16,7 @@ const about = () => {
         <p className=" text-xl mt-10">
           I'm passionate about crafting captivating user experiences through
           clean and efficient code. My expertise lies in HTML, CSS, and
-          JavaScript, and I'm skilled in using modern frameworks like React,
-          Angular, or Vue.js.
+          JavaScript, and I'm skilled in using modern frameworks like React.
         </p>
 
         <br />
