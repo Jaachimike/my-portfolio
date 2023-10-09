@@ -1,35 +1,39 @@
 import React from "react";
-// import arrayDestruct from "../assets/portfolio/arrayDestruct.jpg";
-// import installNode from "../assets/portfolio/installNode.jpg";
-// import navbar from "../assets/portfolio/navbar.jpg";
-// import reactParallax from "../assets/portfolio/reactParallax.jpg";
 import portfolio from "../assets/portfolio/pf.png";
-import contact_form from "../assets/portfolio/contact form.png";
 import webchat from "../assets/portfolio/webchat .png";
 import carz from "../assets/portfolio/carz website.png";
+import coalition from "../assets/portfolio/coalition.png";
+import getlinked from "../assets/portfolio/getlinked.png";
 
 const Portfolio = () => {
   const portfolios = [
     {
       id: 1,
-      src: webchat,
-      demo: "https://react-webchat-app.netlify.app/",
-      code: "https://github.com/Jaachimike/web-chat",
-    },
-    {
-      id: 2,
       src: carz,
       demo: "https://carz-website.netlify.app/",
       code: "https://github.com/Jaachimike/react-travel-website",
     },
     {
+      id: 2,
+      src: getlinked,
+      demo: "https://adorable-pudding-9e35b3.netlify.app/",
+      code: "https://github.com/Jaachimike/getlinked_website",
+    },
+
+    {
       id: 3,
-      src: contact_form,
-      demo: "https://phenomenal-dieffenbachia-27ed03.netlify.app/",
-      code: "https://github.com/Jaachimike/contact-form",
+      src: coalition,
+      demo: "https://dashing-smakager-42ba57.netlify.app/",
+      code: "https://github.com/Jaachimike/coalitionwebsite",
     },
     {
       id: 4,
+      src: webchat,
+      demo: "https://react-webchat-app.netlify.app/",
+      code: "https://github.com/Jaachimike/web-chat",
+    },
+    {
+      id: 5,
       src: portfolio,
       demo: "https://jaachi-portfolio.netlify.app/",
       code: "https://github.com/Jaachimike/my-portfolio",
