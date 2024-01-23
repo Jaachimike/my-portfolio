@@ -4,6 +4,7 @@ import webchat from "../assets/portfolio/webchat .png";
 import carz from "../assets/portfolio/carz website.png";
 import coalition from "../assets/portfolio/coalition.png";
 import getlinked from "../assets/portfolio/getlinked.png";
+import amadeus from "../assets/portfolio/Amadeus.png";
 
 const Portfolio = () => {
   const portfolios = [
@@ -15,9 +16,9 @@ const Portfolio = () => {
     },
     {
       id: 2,
-      src: getlinked,
-      demo: "https://adorable-pudding-9e35b3.netlify.app/",
-      code: "https://github.com/Jaachimike/getlinked_website",
+      src: amadeus,
+      demo: "https://jaachi-portfolio.netlify.app/",
+      code: "https://github.com/Jaachimike/my-portfolio",
     },
 
     {
@@ -37,6 +38,12 @@ const Portfolio = () => {
       src: portfolio,
       demo: "https://jaachi-portfolio.netlify.app/",
       code: "https://github.com/Jaachimike/my-portfolio",
+    },
+    {
+      id: 6,
+      src: getlinked,
+      demo: "https://adorable-pudding-9e35b3.netlify.app/",
+      code: "https://github.com/Jaachimike/getlinked_website",
     },
   ];
 
@@ -59,7 +66,7 @@ const Portfolio = () => {
               <img
                 src={src}
                 alt=""
-                className=" rounded-md duration-200 hover:scale-105"
+                className=" h-fit w-auto rounded-md duration-200 hover:scale-105"
               />
               <div className=" flex items-center justify-center">
                 <button className=" w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
