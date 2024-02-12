@@ -13,21 +13,47 @@ const about = () => {
           </p>
         </div>
 
-        <p className=" text-xl mt-10">
-          I'm passionate about crafting captivating user experiences through
-          clean and efficient code. My expertise lies in HTML, CSS, and
-          JavaScript, and I'm skilled in using modern frameworks like React.
+        <p className="text-md sm:text-xl mt-10">
+          Welcome to my portfolio! I'm Jaachimike Okafor, a skilled full-stack
+          developer specializing in frontend and backend development. With
+          expertise in HTML5, CSS3, JavaScript (ES6+), React.js (Redux, React
+          Router), Next.js, Node.js, Express.js, and MongoDB, I create immersive
+          web experiences.
         </p>
 
         <br />
 
-        <p className=" text-xl">
-          Throughout my career, I've collaborated with cross-functional teams to
-          deliver visually appealing and user-centric designs. I constantly
-          strive to stay updated with the latest trends and technologies in web
-          development. On this portfolio, you'll find a collection of my
-          projects showcasing my skills and dedication to frontend development.
-          Let's connect and explore exciting opportunities together!
+        <p className="text-md sm:text-xl ">
+          In frontend development, I excel in crafting visually stunning and
+          responsive web applications using React.js and its related
+          technologies. On the backend, I leverage Node.js and Express.js to
+          build scalable server-side solutions, integrating MongoDB and RESTful
+          APIs for seamless communication.
+        </p>
+
+        <br />
+
+        <p className=" text-md sm:text-xl">
+          I have experience customizing themes and extending functionalities in
+          CMS platforms like WordPress and Squarespace. Proficient in version
+          control with Git, I prioritize code integrity and collaboration.
+        </p>
+
+        <br />
+
+        <p className=" text-md sm:text-xl">
+          Additionally, I'm skilled in UI frameworks such as Bootstrap, Tailwind
+          CSS, Material UI, Framer, and Chakra UI. I streamline workflows using
+          tools like Postman, Chrome DevTools, and Figma, ensuring the delivery
+          of high-quality solutions within project timelines.
+        </p>
+
+        <br />
+
+        <p className=" text-md sm:text-xl">
+          Driven by a passion for innovation and excellence, I am committed to
+          pushing the boundaries of web development and delivering exceptional
+          digital experiences.
         </p>
       </div>
     </div>

@@ -27,12 +27,12 @@ const Portfolio = () => {
       demo: "https://dashing-smakager-42ba57.netlify.app/",
       code: "https://github.com/Jaachimike/coalitionwebsite",
     },
-    {
-      id: 4,
-      src: webchat,
-      demo: "https://react-webchat-app.netlify.app/",
-      code: "https://github.com/Jaachimike/web-chat",
-    },
+    // {
+    //   id: 4,
+    //   src: webchat,
+    //   demo: "https://react-webchat-app.netlify.app/",
+    //   code: "https://github.com/Jaachimike/web-chat",
+    // },
     {
       id: 5,
       src: portfolio,
@@ -66,7 +66,7 @@ const Portfolio = () => {
               <img
                 src={src}
                 alt=""
-                className=" h-fit w-auto rounded-md duration-200 hover:scale-105"
+                className=" h-44 w-full rounded-md duration-200 hover:scale-105"
               />
               <div className=" flex items-center justify-center">
                 <button className=" w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
