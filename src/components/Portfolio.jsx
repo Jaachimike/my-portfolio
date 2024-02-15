@@ -39,12 +39,12 @@ const Portfolio = () => {
       demo: "https://jaachi-portfolio.netlify.app/",
       code: "https://github.com/Jaachimike/my-portfolio",
     },
-    {
-      id: 6,
-      src: getlinked,
-      demo: "https://adorable-pudding-9e35b3.netlify.app/",
-      code: "https://github.com/Jaachimike/getlinked_website",
-    },
+    // {
+    //   id: 6,
+    //   src: getlinked,
+    //   demo: "https://adorable-pudding-9e35b3.netlify.app/",
+    //   code: "https://github.com/Jaachimike/getlinked_website",
+    // },
   ];
 
   return (
