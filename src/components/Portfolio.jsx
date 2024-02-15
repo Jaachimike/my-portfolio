@@ -17,8 +17,8 @@ const Portfolio = () => {
     {
       id: 2,
       src: amadeus,
-      demo: "https://jaachi-portfolio.netlify.app/",
-      code: "https://github.com/Jaachimike/my-portfolio",
+      demo: "https://amadeus.edu.ng/",
+      code: "",
     },
 
     {
