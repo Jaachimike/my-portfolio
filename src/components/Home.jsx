@@ -17,8 +17,8 @@ const Home = () => {
           <p className="text-gray-500 py-4 max-w-md">
             I have experience in building and desgining websites and web
             applications. Currently, I love to work on web application using
-            technologies like React.js, Tailwind, Node.js, Express.js, MongoDB
-            and Wordpress.
+            technologies like React.js, Node.js, Express.js, MongoDB, MySQL and
+            Wordpress.
           </p>
 
           <div>

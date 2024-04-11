@@ -17,8 +17,8 @@ const about = () => {
           Welcome to my portfolio! I'm Jaachimike Okafor, a skilled full-stack
           developer specializing in frontend and backend development. With
           expertise in HTML5, CSS3, JavaScript (ES6+), React.js (Redux, React
-          Router), Next.js, Node.js, Express.js, and MongoDB, I create immersive
-          web experiences.
+          Router), Next.js, Node.js, Express.js, MySQL and MongoDB, I create
+          immersive web experiences.
         </p>
 
         <br />
@@ -27,8 +27,8 @@ const about = () => {
           In frontend development, I excel in crafting visually stunning and
           responsive web applications using React.js and its related
           technologies. On the backend, I leverage Node.js and Express.js to
-          build scalable server-side solutions, integrating MongoDB and RESTful
-          APIs for seamless communication.
+          build scalable server-side solutions, integrating MongoDB or MySQL and
+          RESTful APIs for seamless communication.
         </p>
 
         <br />

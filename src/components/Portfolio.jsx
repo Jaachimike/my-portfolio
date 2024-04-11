@@ -5,6 +5,7 @@ import carz from "../assets/portfolio/carz website.png";
 import coalition from "../assets/portfolio/coalition.png";
 import getlinked from "../assets/portfolio/getlinked.png";
 import amadeus from "../assets/portfolio/Amadeus.png";
+import spotta from "../assets/portfolio/spotta.png";
 
 const Portfolio = () => {
   const portfolios = [
@@ -27,12 +28,12 @@ const Portfolio = () => {
       demo: "https://dashing-smakager-42ba57.netlify.app/",
       code: "https://github.com/Jaachimike/coalitionwebsite",
     },
-    // {
-    //   id: 4,
-    //   src: webchat,
-    //   demo: "https://react-webchat-app.netlify.app/",
-    //   code: "https://github.com/Jaachimike/web-chat",
-    // },
+    {
+      id: 4,
+      src: spotta,
+      demo: "https://spotta.cerebralhub.com/reviews",
+      code: "https://github.com/Jaachimike/spotta-NG",
+    },
     {
       id: 5,
       src: portfolio,

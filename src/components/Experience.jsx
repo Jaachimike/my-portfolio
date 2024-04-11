@@ -9,6 +9,7 @@ import wordpress from "../assets/wordpress.png";
 import git from "../assets/git.png";
 import node from "../assets/node.png";
 import express from "../assets/express.png";
+import mysql from "../assets/MySQL.svg";
 
 const Experience = () => {
   const techs = [
@@ -71,6 +72,12 @@ const Experience = () => {
       src: express,
       title: "Express",
       style: "shadow-gray-400",
+    },
+    {
+      id: 11,
+      src: mysql,
+      title: "MySQL",
+      style: "shadow-yellow-400",
     },
   ];
 
