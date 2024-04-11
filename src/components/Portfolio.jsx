@@ -1,9 +1,9 @@
 import React from "react";
 import portfolio from "../assets/portfolio/pf.png";
-import webchat from "../assets/portfolio/webchat .png";
+// import webchat from "../assets/portfolio/webchat .png";
 import carz from "../assets/portfolio/carz website.png";
 import coalition from "../assets/portfolio/coalition.png";
-import getlinked from "../assets/portfolio/getlinked.png";
+// import getlinked from "../assets/portfolio/getlinked.png";
 import amadeus from "../assets/portfolio/Amadeus.png";
 import spotta from "../assets/portfolio/spotta.png";
 
